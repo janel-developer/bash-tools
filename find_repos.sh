@@ -2,7 +2,7 @@
 
 # Usage
 usage() {
-	echo "find_repos [-d DIRECTORY] [-s SEARCH_STRING] [-o OUTPUT_FILE]"
+	echo "find_repos [-d DIRECTORY] [-s SEARCH_STRING] [-o OUTPUT_FILE] [-v]"
 }
 
 # echo to standard out if VERBOSE
